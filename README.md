@@ -2,7 +2,7 @@
 
 ## Context
 
-https://github.com/day8/re-frame/issues/797
+This code was suppose to reproduce a "bug" of sorts in re-frame discussed here: https://github.com/day8/re-frame/issues/797
 
 ### Results
 
